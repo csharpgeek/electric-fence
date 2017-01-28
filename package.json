@@ -1,0 +1,22 @@
+{
+  "name": "electric-fence",
+  "version": "0.0.1",
+  "description": "JSON schema validator middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csharpgeek/electric-fence.git"
+  },
+  "keywords": [
+    "validation"
+  ],
+  "author": "Carlos Perestrelo Correia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csharpgeek/electric-fence/issues"
+  },
+  "homepage": "https://github.com/csharpgeek/electric-fence#readme"
+}
